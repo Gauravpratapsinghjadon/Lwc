@@ -9,9 +9,12 @@
       "android",
       "web"
     ],
-    "version": "1.0.0",
+    "version": "1.1.0",
+    "android": {
+      "package": "com.playtech.Lwc"
+     },
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/ic_launcher_round.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
